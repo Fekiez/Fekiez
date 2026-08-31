@@ -1,6 +1,6 @@
 ## Hi there, I'm Fekiez 🇲🇾
 **Computer Science Student | Developer**\
-I love learning programming language, new technologies and anything related.
+I love learning programming languages, new technologies, and anything related to them.
 ## Skills 🧠
 * Front-end developer
 * Flutter
