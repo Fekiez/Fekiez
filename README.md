@@ -1,5 +1,5 @@
 ## Hi there, I'm Fekiez 🇲🇾
-**Computer Science Student | Developer**\
+**Self-Taught Programmer | Developer**\
 I love learning programming languages, new technologies, and anything related to them.
 ## Skills 🧠
 * Front-end developer
