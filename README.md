@@ -1,5 +1,5 @@
 ## Hi there, I'm Fekiez 🇲🇾
-**Self-Taught Programmer | Developer**\
+**Self-Taught Programmer**\
 I love learning programming languages, new technologies, and anything related to them.
 ## Skills 🧠
 * Front-end developer
