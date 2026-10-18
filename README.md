@@ -8,5 +8,3 @@ I love learning programming languages, new technologies, and anything related to
 * C++
 ## Projects
 Not yet publish!
-## Connect with Me!
-* LinkedIn: [Fekiez](https://www.linkedin.com/in/mhd-harith-numan/)
